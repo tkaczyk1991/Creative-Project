@@ -7,11 +7,11 @@ Structure of this document: File name, followed by a description of what it does
 
 Files:
 
-TMAS_analysis.pde -
+TMAS_analysis.pde (written in Processing) -
 ~This is the visualisation part of TMAS
 ~Alot of repetative code, mostly loading the data, simplifying it, and passing it between functions. 
 
-TMAS_monitoring.ipynb - 
+TMAS_monitoring.ipynb (written in Python) - 
 ~This is the monitoring part of TMAS. 
 ~Designed to detect vehicles, and log them into a data base when they are inside a central part
 of the screen. 
