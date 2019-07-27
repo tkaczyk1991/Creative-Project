@@ -22,3 +22,6 @@ TakePhoto.ipynb -
 ~This program uses OpenCV to take a photo every 5 seconds, through a webcam, and then saves it to a directory.
 ~Please note: if using this program, change the count variable to what ever number your last photo was, otherwise it will overwrite itself. 
 ~Also please note: after interrupting the program, execute the capture.release() and cv2.destroyAllWindows() cell, otherwise you will have to restart the kernal. 
+
+tiny-yolo.cfg & tiny-yolo-4c.cfg ;
+~Custom confuguration files for the YOLO Object Detector 
